@@ -1,0 +1,301 @@
+{
+    "type": "force",
+    "categories": [
+        {
+            "name": "HTMLElement",
+            "keyword": {},
+            "base": "HTMLElement"
+        },
+        {
+            "name": "WebGL",
+            "keyword": {},
+            "base": "WebGLRenderingContext"
+        },
+        {
+            "name": "SVG",
+            "keyword": {},
+            "base": "SVGElement"
+        },
+        {
+            "name": "CSS",
+            "keyword": {},
+            "base": "CSSRule"
+        },
+        {
+            "name": "Other",
+            "keyword": {}
+        }
+    ],
+    "nodes": [
+        {
+            "name": "AnalyserNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Uint8Array",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Float32Array",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ArrayBuffer",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ArrayBufferView",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Attr",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Node",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Element",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioBuffer",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioBufferCallback",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioBufferSourceNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioSourceNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioGain",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioParam",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioContext",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioDestinationNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "AudioListener",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "BiquadFilterNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ChannelMergerNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ChannelSplitterNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ConvolverNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "DelayNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "DynamicsCompressorNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "GainNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "MediaElementAudioSourceNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "MediaStreamAudioDestinationNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "MediaStreamAudioSourceNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "OscillatorNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "PannerNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ScriptProcessorNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "WaveShaperNode",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "WaveTable",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "CanvasRenderingContext",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "HTMLCanvasElement",
+            "value": 1,
+            "category": 0
+        },
+        {
+            "name": "CanvasRenderingContext2D",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ImageData",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "CanvasGradient",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "CanvasPattern",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "HTMLImageElement",
+            "value": 1,
+            "category": 0
+        },
+        {
+            "name": "HTMLVideoElement",
+            "value": 1,
+            "category": 0
+        },
+        {
+            "name": "TextMetrics",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "CDATASection",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Text",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "CharacterData",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ClientRectList",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "ClientRect",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Clipboard",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "FileList",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "DataTransferItemList",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Comment",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Console",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "MemoryInfo",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Crypto",
+            "value": 1,
+            "category": 4
+        }
+    ]
+}

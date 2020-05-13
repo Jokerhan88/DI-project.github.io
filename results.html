@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>results</title>
+        <link href="css/style2.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+        <script src="js/echarts.min.js"></script>
+    </head>
+    <body>
+
+        <div class="module-banner">
+            <div class="module-banner-box">
+                <h3 class="module-banner-head">
+                    <em>Analysis and Results</em>
+                    <span>About networking in CI events</span>
+                </h3>
+                <div class="module-banner-tab clearfix">
+                    <div class="module-banner-tab-list hd">
+                        <ul class="module-tab-nav">
+                            <li class="on">
+                                <i class="icon icon-warehouse01"></i>
+                                <p>Networking</p>
+                            </li>
+                            <li>
+                                <i class="icon icon-warehouse02"></i>
+                                <p>Results</p>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="module-banner-tab-list-box bd">
+                        <ul class="module-tab-box-ma">
+                            <li>
+                                <div class="module-tab-title">
+                                    <h4>Networking</h4>
+                                    <p>Based on statistics of CI events, there are many participants from different working area, in different age groups have various interests about CI events. One of the most popular interests is networking, which means lots of people want to build networking with other participants, lecturers, performers. Therefore, what I want to do is figuring out what kind of people are willing to networking most and why, and it can also help me to visualize the network between these people.</p>
+                                </div><br/>
+                                <div class="module-tab-title">
+                                    <h4>Networking people</h4>
+                                    <p>There are four options can be selected in the questionnaire, <br/>
+                                        (1) I would like to find out more about the Creative Informatics programme<br/>
+                                        (2) I am interested in the opportunities available through the Creative Informatics programme <br/>
+                                        (3) Networking<br/>
+                                        (4) I would like to find out more about data-driven technologies</p><br/>
+                                        <p>Participants are ordered to choose what they are interested in from above before each event. From the overview data, it can be seen ‘networking’ is always the top1 interests in many labs. Thus, this part may analyze who choose the ‘networking’ and figure out the underlying reason.</p><br/>
+                                    <div id="results1" style="width: 600px;height:400px;"></div><br/>
+
+                                    <p>According to our statistic, 66% of participants chose ‘networking’, and 18.1% of audience only chose networking, especially people who do not work in Creative Informatics industry. Therefore, building network between others can be seen as a significant point to attract more people to events.</p>
+                                    <br/>
+                                    <div style= "text-align:center;"> 
+                                    <img src='images/5.png' style: width="500px" height="170px">
+                                    
+                                    </div> 
+                                     
+                                    
+                                </div>
+                                
+                            </li>
+                        </ul>
+                        <ul class="module-tab-box-ma">
+                            <li>
+                                <div class="module-tab-title">
+                                    <h4>Result1: There is no significant difference in gender</h4>
+                                    <p>Before the data analysis, I guess gender will make a difference in this regard. However, 66% of men and women choose ‘networking’, which match to the opinion of Thompson and Lougheed (2012), although the differences in different gender communication wildly considered, it is difficult to draw a conclusion that what exact differences between females and males in networking.</p><br/>
+                                    <div id="results2" style="width: 410px;height:300px;float: left;"></div>
+                                    <div id="results3" style="width: 410px;height:300px;float:right"></div>
+                                </div><br/>
+
+                                <div class="module-tab-title">
+                                    <h4>Result2: Middle-aged people are more willing to build relationships in CI events</h4>
+                                    <p>Although most people prefer to build networking through CI events, the proportions of different age group still have some differences. People who aged 18-24 are not so urgent when it comes to networking in CI events, they are likely to find more about CI programme. And middle-aged people prefer to construct network between others, it may because they want to use networking to access the resources of career, such as job information, support, and recognition (Kankkuen, 2014).</p><br/>
+                                    <div id="results4" style="width: 800px;height:300px;"></div>
+                                </div><br/>
+
+                                <div class="module-tab-title">
+                                    <h4>Result3: There are some differences between men and women at different ages</h4>
+                                    <p></p>
+                                    <div id="results5" style="width: 400px;height:400px;"></div>
+                                </div>
+                                  
+                                
+                                
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+		
+        <script type="text/javascript">
+            jQuery(".module-banner-tab").slide({trigger:"click",delayTime:1000});
+        </script>
+        
+        <script src="js/results.js"></script>
+		
+        
+    </body>
+    
+</html>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-05-12">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="度" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted degree" title="加权度" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="pn" title="pn" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="User1">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4166666666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5166666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="0.993"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-558.45526" y="-8.605726"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="User17">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.0"></attvalue>
+          <attvalue for="weighted degree" value="2.349"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="187.3226" y="516.8028"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="User2">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.22121526621526624"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="0.996"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="2.7435215" y="-301.59027"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="User16">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14150943396226415"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2834374884374885"></attvalue>
+          <attvalue for="betweenesscentrality" value="14.0"></attvalue>
+          <attvalue for="weighted degree" value="1.829"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="404.63635" y="461.21573"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="User3">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4166666666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5166666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="0.902"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="438.0381" y="-356.6281"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="User4">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.19736842105263158"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34021404521404525"></attvalue>
+          <attvalue for="betweenesscentrality" value="44.0"></attvalue>
+          <attvalue for="weighted degree" value="1.89"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-238.44255" y="221.61919"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="User18">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17857142857142858"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3291029341029341"></attvalue>
+          <attvalue for="betweenesscentrality" value="36.0"></attvalue>
+          <attvalue for="weighted degree" value="1.611"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-66.42104" y="550.82166"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="User5">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.234375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35404761904761906"></attvalue>
+          <attvalue for="betweenesscentrality" value="56.0"></attvalue>
+          <attvalue for="weighted degree" value="1.9405000000000001"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="214.22972" y="-511.99127"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="User19">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.234375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35404761904761906"></attvalue>
+          <attvalue for="betweenesscentrality" value="56.0"></attvalue>
+          <attvalue for="weighted degree" value="1.611"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="418.2773" y="378.51416"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="User6">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17857142857142858"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3291029341029341"></attvalue>
+          <attvalue for="betweenesscentrality" value="36.0"></attvalue>
+          <attvalue for="weighted degree" value="1.9405000000000001"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-500.32755" y="312.1583"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="User20">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.19736842105263158"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3402140452140452"></attvalue>
+          <attvalue for="betweenesscentrality" value="44.0"></attvalue>
+          <attvalue for="weighted degree" value="1.611"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-50.141815" y="-557.0256"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="User7">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6333333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="1.9405000000000001"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-302.81464" y="-471.12646"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="User21">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35714285714285715"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="0.945"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="533.3281" y="143.06049"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="User8">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14150943396226415"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.28343748843748845"></attvalue>
+          <attvalue for="betweenesscentrality" value="14.0"></attvalue>
+          <attvalue for="weighted degree" value="1.9405000000000001"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-220.66245" y="-227.74724"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="User22">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.22121526621526624"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="0.945"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-491.97955" y="-267.6219"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="User9">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.21428571428571427"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34748677248677245"></attvalue>
+          <attvalue for="betweenesscentrality" value="50.0"></attvalue>
+          <attvalue for="weighted degree" value="1.9405000000000001"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-299.31372" y="-6.993872"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="User10">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22727272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35193121693121693"></attvalue>
+          <attvalue for="betweenesscentrality" value="54.0"></attvalue>
+          <attvalue for="weighted degree" value="1.991"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="291.31848" y="4.194907"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="User11">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="13.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1595744680851064"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.31200891700891703"></attvalue>
+          <attvalue for="betweenesscentrality" value="26.0"></attvalue>
+          <attvalue for="weighted degree" value="1.8285"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-316.15118" y="466.96002"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="User12">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.0"></attvalue>
+          <attvalue for="weighted degree" value="1.4495"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-501.00476" y="251.54642"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="User13">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="13.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1595744680851064"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.31200891700891703"></attvalue>
+          <attvalue for="betweenesscentrality" value="26.0"></attvalue>
+          <attvalue for="weighted degree" value="1.6615000000000002"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="560.0121" y="-348.12543"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="User14">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22727272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35193121693121693"></attvalue>
+          <attvalue for="betweenesscentrality" value="54.0"></attvalue>
+          <attvalue for="weighted degree" value="1.6615000000000002"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-3.7257774" y="-2.8114445"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="User15">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.21428571428571427"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34748677248677245"></attvalue>
+          <attvalue for="betweenesscentrality" value="50.0"></attvalue>
+          <attvalue for="weighted degree" value="1.6615000000000002"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="223.56155" y="-221.53804"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="User1" target="User17" weight="0.993">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="User2" target="User16" weight="0.996">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="User3" target="User17" weight="0.902">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="User4" target="User18" weight="0.945">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="User5" target="User19" weight="0.945">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="User6" target="User20" weight="0.945">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="User7" target="User21" weight="0.945">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="User8" target="User22" weight="0.945">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="User9" target="User4" weight="0.945">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="User10" target="User5" weight="0.9955">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="User11" target="User6" weight="0.9955">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="User12" target="User7" weight="0.9955">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="User13" target="User8" weight="0.9955">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="User14" target="User9" weight="0.9955">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="User15" target="User10" weight="0.9955">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="User16" target="User11" weight="0.833">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="User17" target="User12" weight="0.454">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="User18" target="User13" weight="0.666">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="User19" target="User14" weight="0.666">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="User20" target="User15" weight="0.666">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="pn" value="0"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
